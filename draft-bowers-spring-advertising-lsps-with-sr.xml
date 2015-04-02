@@ -90,7 +90,7 @@
       distributed in one of two ways.  Each router can directly
       advertise a globally unique node label in the IGP.  Or each
       router can advertise a globally unique node index value as well
-      a locally assigned label block, allowing any router in the IGP
+      as a locally assigned label block, allowing any router in the IGP
       area to determine the mapping of locally-assigned label to
       globally unique node index for any other router in the area.
       </t>
