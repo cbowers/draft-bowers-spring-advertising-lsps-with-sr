@@ -10,7 +10,7 @@
 <?rfc tocdepth="3"?>
 <?rfc tocindent="yes"?>
 <?rfc tocompact="yes"?>
-<rfc category="std" docName="draft-bowers-spring-advertising-lsps-with-sr-01" ipr="trust200902" obsoletes="" updates="" submissionType="IETF" xml:lang="en">
+<rfc category="std" docName="draft-bowers-spring-advertising-lsps-with-sr-02" ipr="trust200902" obsoletes="" updates="" submissionType="IETF" xml:lang="en">
   <front>
     <title abbrev="Advertising LSPs with Segment Routing ">
     Advertising LSPs with Segment Routing
@@ -58,7 +58,7 @@
       </address>
     </author>
 
-    <date day="9" month="March" year="2015"/>
+    <date day="18" month="November" year="2015"/>
 
     <area>Routing</area>
 
